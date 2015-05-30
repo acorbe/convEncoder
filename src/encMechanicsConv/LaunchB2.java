@@ -54,7 +54,7 @@ public class LaunchB2 {
 		private JPanel rightCont;
 		
 		public Gui(JPanel trellisFr, JPanel trellisShow){
-			super("[Convol Enc - Trans - Dec] Alessandro Corbetta S168406");
+			super("[Convol Enc - Trans - Dec] Alessandro Corbetta");
 			//this.setLayout(new FlowLayout());
 			
 			this.trellisFr = trellisFr;
@@ -191,10 +191,12 @@ public class LaunchB2 {
 						// TODO Auto-generated method stub
 						JOptionPane.showMessageDialog(null,
 								"A small program to simulate convolutional encoding...\n" +
+								"Homework for the exam: Coding Theory and Structure of Convolutional Codes\n" +
+								"at Politecnico di Torino (2011)\n"	+	
 								"1,5K+ codelines and 6 days of hard work\n" +
 								"\n" +
-								"by Alessandro JSB Corbetta\n" +
-								"           corbisoft@gmail.com\n" +
+								"by Alessandro Corbetta\n" +
+								"           alessandro.corbetta@hotmail.com\n" +
 								
 								"                                                                                 1/02/2011\n" +
 								"\n" +
